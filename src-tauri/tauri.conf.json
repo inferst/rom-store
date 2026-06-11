@@ -14,8 +14,7 @@
       {
         "title": "rom-store",
         "width": 800,
-        "height": 600,
-        "fullscreen": true
+        "height": 600
       }
     ],
     "security": {
